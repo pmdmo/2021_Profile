@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/avatar_background.xml" value="0.15462962962962962" />
+        <entry key="app/src/main/res/drawable/avatar_name_background.xml" value="0.15462962962962962" />
+        <entry key="app/src/main/res/drawable/header_background.xml" value="0.15462962962962962" />
+        <entry key="app/src/main/res/drawable/ic_address.xml" value="0.17777777777777778" />
+        <entry key="app/src/main/res/drawable/ic_baseline_refresh_24.xml" value="0.15462962962962962" />
+        <entry key="app/src/main/res/drawable/ic_call.xml" value="0.17777777777777778" />
+        <entry key="app/src/main/res/drawable/ic_check_24dp.xml" value="0.15462962962962962" />
+        <entry key="app/src/main/res/drawable/ic_email.xml" value="0.17777777777777778" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.17777777777777778" />
+        <entry key="app/src/main/res/drawable/ic_refresh.xml" value="0.17777777777777778" />
+        <entry key="app/src/main/res/drawable/ic_save.xml" value="0.17777777777777778" />
+        <entry key="app/src/main/res/drawable/ic_save_24dp.xml" value="0.15462962962962962" />
+        <entry key="app/src/main/res/drawable/ic_web.xml" value="0.15462962962962962" />
+        <entry key="app/src/main/res/drawable/refresh_background.xml" value="0.15462962962962962" />
+        <entry key="app/src/main/res/layout-land/avatar_activity.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-land/profile_activity.xml" value="0.2171875" />
+        <entry key="app/src/main/res/layout/avatar_activity.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/avatar_new_activity.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/profile_activity.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/profile_avatar.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/profile_form.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/profile_new_activity.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/profile_new_form.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/avatar_activity.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/profile_activity.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

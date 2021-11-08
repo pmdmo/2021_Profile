@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone</string>
+    <string name="web">Web</string>
+    <string name="address">Address</string>
+    <string name="avatar">Avatar</string>
+    <string name="save">Save</string>
+    <string name="user_saved_succesfully">User saved successfully</string>
+    <string name="select_avatar">Select Avatar</string>
+    <string name="select">Select</string>
+    <string name="invalid_name">Username is required</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="invalid_phone_number">Invalid phone</string>
+    <string name="invalid_address">Address is required</string>
+    <string name="invalid_web">Invalid URL</string>
+    <string name="user_profile">User profile</string>
+    <string name="refresh">Refresh</string>
+    <string name="error_showing_uri">No app found to view uri</string>
+    <string name="error_sending_email">No app to send an email</string>
+    <string name="error_dialing">No app to dial</string>
+    <string name="error_searching_in_map">No app to search in map</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="invalid_password">Invalid password</string>
+</resources>

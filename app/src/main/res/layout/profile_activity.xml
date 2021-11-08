@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/clRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/btnRefresh"
+        android:background="@color/gray"
+        android:foreground="@drawable/refresh_background"
+        app:contentPadding="@dimen/margin"
+        app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.App.CornerSize50Percent"
+        tools:targetApi="m"
+        ...
+        />
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/imgAvatar"
+        app:contentPadding="@dimen/margin_2x"
+        app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.App.CornerSize50Percent"
+        app:strokeColor="@color/primaryDark"
+        android:elevation="16dp"
+        app:strokeWidth="4dp"
+        ...
+        />
+
+     <TextView
+        android:id="@+id/lblAvatar"
+        android:fontFamily="@font/fruktur"
+        android:letterSpacing="0.2"
+        android:background="@drawable/avatar_name_background"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        tools:text="Pikachu" />
+
+    -->
+
+</androidx.constraintlayout.widget.ConstraintLayout>
